@@ -7,7 +7,7 @@
     "dev": "tsc && node dist/app.js",
     "test": "node test/index.js"
   },
-  "repository": "Extenv",
+  "repository": "https://github.com/extenv/cetak",
   "author": "Ivan Maulana",
   "license": "MIT",
   "devDependencies": {
