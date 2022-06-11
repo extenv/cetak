@@ -1,0 +1,16 @@
+{
+  "name": "cetak",
+  "version": "1.0.0",
+  "description": "Simple console.log",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "tsc && node dist/app.js",
+    "test": "node test/index.js"
+  },
+  "repository": "Extenv",
+  "author": "Ivan Maulana",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.42"
+  }
+}
