@@ -20,4 +20,3 @@ for(let  get  in  arr){
 cetak(arr[get]); // 1 2 3 4 5
 }
 ```
-Thanks
