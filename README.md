@@ -1,4 +1,11 @@
 > Simple console.log 
+## How to install
+```
+npm install cetak
+```
+```
+yarn add cetak
+```
 ## How to use
 
 ```
