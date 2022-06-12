@@ -6,7 +6,7 @@ npm install cetak
 ```
 yarn add cetak
 ```
-## How to use
+## How to use 
 
 ```
 const  cetak  =  require('cetak');
